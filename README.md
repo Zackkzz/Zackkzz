@@ -49,5 +49,3 @@ I'm **Zack Zeng**, a Computer Science student at **UNSW** who works across front
 ---
 
 **Have something interesting to build? [Let's connect ↗](https://www.linkedin.com/in/zack-zeng-949081338/)**
-
-<sub>Always learning. Usually building.</sub>
