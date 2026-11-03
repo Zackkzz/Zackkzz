@@ -1,4 +1,4 @@
-![Zack Zeng. Full-stack developer. Systems-curious. UNSW CS, Sydney. the only thing i know is that i know nothing](./assets/profile-banner.png)
+![Hi, I'm Zack. Full-stack developer. UNSW Computer Science, Sydney. Software engineer, student and builder.](./assets/profile-banner.png)
 
 I'm **Zack Zeng**, a Computer Science student at **UNSW** who works across frontend, backend and infrastructure. I like building useful things—and understanding what happens beneath the abstractions.
 
