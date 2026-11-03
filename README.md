@@ -3,7 +3,7 @@
 I'm **Zack Zeng**, a Computer Science student at **UNSW** who works across frontend, backend and infrastructure. I like building useful things—and understanding what happens beneath the abstractions.
 
 🔧 IT Intern @ **Sungrow** · Software Engineer @ **[DevSoc / structs.sh](https://structs.sh)** & **Unify**  
-🌱 Currently exploring **Maching Learning Engineer** through UNSW coursework.  
+🌱 Currently exploring **Maching Learning Engineer** at UNSW.  
 
 [LinkedIn](https://www.linkedin.com/in/zack-zeng-949081338/) · [Explore my repositories](https://github.com/Zackkzz?tab=repositories)
 
