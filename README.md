@@ -54,4 +54,4 @@ I'm **Zack Zeng**, a Computer Science student at **UNSW** who works across front
 
 **Have something interesting to build? [Let's connect ↗](https://www.linkedin.com/in/zack-zeng-949081338/)**
 
-<sub>Always learning. Usually building. · [Profile design in Figma](https://www.figma.com/design/QTSFpsD6FGh7QmyGslG4wc?node-id=2-10)</sub>
+<sub>Always learning. Usually building.</sub>
