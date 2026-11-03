@@ -3,7 +3,7 @@
 I'm **Zack Zeng**, a Computer Science student at **UNSW** who works across frontend, backend and infrastructure. I like building useful things—and understanding what happens beneath the abstractions.
 
 🔧 IT Intern @ **Sungrow** · Software Engineer @ **[DevSoc / structs.sh](https://structs.sh)** & **Unify**  
-🌱 Currently exploring **operating systems, database systems and Rust** through UNSW coursework.  
+🌱 Currently exploring **Maching Learning Engineer** through UNSW coursework.  
 
 [LinkedIn](https://www.linkedin.com/in/zack-zeng-949081338/) · [Explore my repositories](https://github.com/Zackkzz?tab=repositories)
 
@@ -23,7 +23,7 @@ I'm **Zack Zeng**, a Computer Science student at **UNSW** who works across front
 
 🧪 **Testing:** JUnit, Cypress
 
-🤖 **Agentic Programming:** Cursor, Claude, skills, harnesses, agentic workflows, optimization
+🤖 **Agentic Programming:** Cursor, Codex, skills, harnesses, agentic workflows, optimization
 
 🚢 **Software Development:** Software architectures (monolithic, service-oriented, event-driven / EDA, microservices, serverless), CI/CD, SDLC, software testing and review, client-facing software development, shell scripting
 
