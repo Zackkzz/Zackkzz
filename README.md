@@ -8,30 +8,25 @@ I'm **Zack Zeng**, a Computer Science student at **UNSW** who works across front
 
 [LinkedIn](https://www.linkedin.com/in/zack-zeng-949081338/) · [My corner of the internet](https://www.zackkspace.com/) · [Explore my repositories](https://github.com/Zackkzz?tab=repositories)
 
-## 🧰 Languages in my toolbox
+## 🧰 Skills
 
-`C` · `Rust` · `Python` · `Java` · `C#` · `TypeScript` · `JavaScript` · `Bash`
+💻 **Languages:** C, C#, Rust, Python, Java, JavaScript/TypeScript, HTML/CSS, Shell (Bash)
 
-**Web & queries:** `HTML` · `CSS` · `SQL`
+🧩 **Frameworks / Libraries:** Next.js, Node.js, React.js, React Native, Expo, Flutter, Flask, Tailwind CSS
 
-## 🧠 Where I connect the dots
+⚙️ **Backend:** Express.js, RESTful APIs, FastAPI, WebSockets
 
-| Area | What I work with |
-| :--- | :--- |
-| **Full-stack & mobile** | React, Next.js, React Native / Expo, Node.js, Express, FastAPI, Flask, REST APIs and WebSockets |
-| **Systems & CS** | Linux, data structures & algorithms, MIPS assembly; operating systems and Rust through current coursework |
-| **Compilers & data** | VC compiler development from scanner to code generator; PostgreSQL, SQLite, schema design and normalisation |
-| **Shipping & quality** | Docker, Git, CI/CD, shell scripting, JUnit, Cypress, software testing and review |
+🗄️ **Databases:** PostgreSQL, SQLite, MongoDB, DBMS, relational and non-relational databases, ER diagrams, database design and normalization
 
-<details>
-<summary><strong>🔍 Peek under the hood</strong></summary>
+🛠️ **Systems / Tools / Platforms:** Linux, Git, Docker, Gradle, CMake, Makefiles, Markdown (.md), YAML (.yaml)
 
-- **CS foundations:** object-oriented programming, threads, virtual machines, binary and hexadecimal representation, and Unicode.
-- **Architecture:** monolithic, service-oriented, event-driven, microservice and serverless architectures.
-- **Developer workflow:** Make, CMake, Gradle, Markdown and YAML.
-- **AI-assisted development:** Cursor, Claude, skills, harnesses and agentic workflows.
+🧪 **Testing:** JUnit, Cypress
 
-</details>
+🤖 **Agentic Programming:** Cursor, Claude, skills, harnesses, agentic workflows, optimization
+
+🚢 **Software Development:** Software architectures (monolithic, service-oriented, event-driven / EDA, microservices, serverless), CI/CD, SDLC, software testing and review, client-facing software development, shell scripting
+
+🧠 **Computer Science:** Data structures and algorithms, MIPS assembly, Unicode, threads, binary and hexadecimal systems, compilers (VC compiler from scanner to code generator), virtual machines, object-oriented programming
 
 ## 🚀 Things I've helped bring to life
 
