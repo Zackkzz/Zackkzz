@@ -11,6 +11,8 @@ I'm **Zack Zeng**, a Computer Science student at **UNSW** who works across front
 
 💻 **Languages:** C, C#, Rust, Python, Java, JavaScript/TypeScript, HTML/CSS, Shell (Bash)
 
+![C, C#, Rust, Python, Java, JavaScript, TypeScript, HTML, CSS and Bash](https://skillicons.dev/icons?i=c,cs,rust,py,java,js,ts,html,css,bash&theme=dark&perline=10)
+
 🧩 **Frameworks / Libraries:** Next.js, Node.js, React.js, React Native, Expo, Flutter, Flask, Tailwind CSS
 
 ⚙️ **Backend:** Express.js, RESTful APIs, FastAPI, WebSockets
