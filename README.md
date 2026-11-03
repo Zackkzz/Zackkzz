@@ -1,10 +1,10 @@
-![Hi, I'm Zack. Full-stack developer. Systems-curious. UNSW Computer Science, Sydney. Build, break, understand, repeat.](./assets/profile-banner.png)
+![Zack Zeng. Full-stack developer. Systems-curious. UNSW CS, Sydney. the only thing i know is that i know nothing](./assets/profile-banner.png)
 
 I'm **Zack Zeng**, a Computer Science student at **UNSW** who works across frontend, backend and infrastructure. I like building useful things—and understanding what happens beneath the abstractions.
 
 🔧 IT Intern @ **Sungrow** · Software Engineer @ **[DevSoc / structs.sh](https://structs.sh)** & **Unify**  
 🌱 Currently exploring **operating systems, database systems and Rust** through UNSW coursework.  
-🧑‍🏫 DevSoc Training Lead, coding teacher, and former UNSW tutor.
+🧑‍🏫 DevSoc Training Lead and former UNSW tutor.
 
 [LinkedIn](https://www.linkedin.com/in/zack-zeng-949081338/) · [My corner of the internet](https://www.zackkspace.com/) · [Explore my repositories](https://github.com/Zackkzz?tab=repositories)
 
