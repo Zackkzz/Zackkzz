@@ -17,7 +17,7 @@ I'm **Zack Zeng**, a Computer Science student at **UNSW** who works across front
 
 ⚙️ **Backend:** Express.js, RESTful APIs, FastAPI, WebSockets
 
-🗄️ **Databases:** PostgreSQL, SQLite, MongoDB, DBMS, relational and non-relational databases, ER diagrams, database design and normalization
+🗄️ **Databases:** PostgreSQL, SQLite, MongoDB, DBMS, relational and non-relational databases
 
 🛠️ **Systems / Tools / Platforms:** Linux, Git, Docker, Gradle, CMake, Makefiles, Markdown (.md), YAML (.yaml)
 
