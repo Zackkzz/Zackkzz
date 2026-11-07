@@ -1,4 +1,4 @@
-![Hi, I'm Zack. Full-stack developer. UNSW Computer Science, Sydney. Software engineer, student and builder.](./assets/profile-banner-green-de76d3e.png)
+![Zack. Full-stack developer. UNSW Computer Science, Sydney, AU.](./assets/profile-banner-monochrome.png)
 
 I'm **Zack Zeng**, a Computer Science student at **UNSW** who works across frontend, backend and infrastructure. I am building software with love and passion.
 
