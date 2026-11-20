@@ -5,7 +5,7 @@ I'm **Zack Zeng**, a Computer Science student at **UNSW** who works across front
 🔧 IT Intern @ **Sungrow** · Software Engineer @ **[DevSoc / structs.sh](https://structs.sh)** & **Unify**  
 🌱 Currently exploring **Maching Learning Engineer** at UNSW.  
 
-[LinkedIn](https://www.linkedin.com/in/zack-zeng-949081338/) · [Explore my repositories](https://github.com/Zackkzz?tab=repositories)
+[LinkedIn](https://www.linkedin.com/in/zack-zeng-949081338/) · [Explore my repositories](https://github.com/Zackkzz?tab=repositories) · [Portfolio](https://zackkzz.github.io/)
 
 ## 🧰 Skills
 
