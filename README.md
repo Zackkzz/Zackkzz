@@ -23,7 +23,7 @@ I'm **Zack Zeng**, a Computer Science student at **UNSW** who works across front
 
 🧪 **Testing:** JUnit, Cypress
 
-🤖 **Agentic Programming:** Cursor, Codex, skills, harnesses, agentic workflows, optimization
+🤖 **Agentic Programming:** Cursor, Codex, skills, harnesses, agentic workflows.
 
 🚢 **Software Development:** Software architectures (monolithic, service-oriented, event-driven / EDA, microservices, serverless), CI/CD, SDLC, software testing and review, client-facing software development, shell scripting
 
