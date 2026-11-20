@@ -19,7 +19,7 @@ I'm **Zack Zeng**, a Computer Science student at **UNSW** who works across front
 
 🗄️ **Databases:** PostgreSQL, SQLite, MongoDB, DBMS, relational and non-relational databases
 
-🛠️ **Systems / Tools / Platforms:** Linux, Git, Docker, Gradle, CMake, Makefiles, Markdown (.md), YAML (.yaml)
+🛠️ **Systems / Tools / Platforms:** Linux, Git, Docker, Gradle, CMake, Makefiles, Markdown (.md), YAML (.yaml), python notebook (.ipynb).
 
 🧪 **Testing:** JUnit, Cypress
 
